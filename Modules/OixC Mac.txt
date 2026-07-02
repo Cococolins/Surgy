@@ -1,8 +1,0 @@
-#!name=OixC Mac
-#!desc=OixC Mac Socks5 端口
-#!author=Cococolin
-#!category=Quirks
-
-[Proxy Group]
-
-OixC = smart, policy-path=http://127.0.0.1:6171/, update-interval=0, include-all-proxies=0, evaluate-before-use=1
